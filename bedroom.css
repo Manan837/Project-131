@@ -1,4 +1,4 @@
-.header{
+.header {
     background-color: black !important;
     color: rgb(255, 255, 255);
     font-size: 25px;
@@ -7,13 +7,15 @@
     line-height: 2;
     border: 5px solid white !important;
 }
-.header:hover{
+
+.header:hover {
     font-size: 23px;
     box-shadow: 10px 10px 30px rgb(0, 0, 0);
     background-color: black;
     border: 5px solid white;
 }
-body{
+
+body {
     background-size: cover;
     background-position: center;
 }
